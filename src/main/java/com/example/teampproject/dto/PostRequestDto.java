@@ -8,5 +8,5 @@ import lombok.Setter;
 public class PostRequestDto {
     private String title;
     private String contents;
-    private Long posting_id;
+    private Long post_id;
 }
